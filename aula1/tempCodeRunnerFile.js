@@ -1,1 +1,1 @@
-.reduce(element => element + element)
+function
