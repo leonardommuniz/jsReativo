@@ -1,0 +1,1 @@
+.reduce(element => element + element)
